@@ -1,0 +1,10 @@
+#engine-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+#renderCanvas {
+  width: 100%;
+  height: 100%;
+  touch-action: none;
+}
